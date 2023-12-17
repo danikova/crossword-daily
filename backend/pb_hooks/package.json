@@ -1,0 +1,6 @@
+{
+  "name": "pb_hooks",
+  "dependencies": {
+    "openai": "^4.23.0"
+  }
+}

@@ -21,3 +21,8 @@ LICENSE.html
 pb_data
 pocketbase.*
 pocketbase
+
+env.txt
+
+# node
+pb_hooks/node_modules
